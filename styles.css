@@ -134,6 +134,7 @@ section {
     cursor: pointer;
     width: fit-content;
     margin-right: auto;
+    text-decoration: none;
 }
 
 .outreach:hover {

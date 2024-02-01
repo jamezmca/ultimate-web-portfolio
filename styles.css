@@ -88,8 +88,7 @@ section {
     gap: 24px;
 }
 
-.imgContainer {
-    
+.imgContainer {    
     max-width: 114px;
     overflow: hidden;
 }

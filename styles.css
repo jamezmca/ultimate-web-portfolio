@@ -164,6 +164,7 @@ section {
     display: flex;
     flex-direction: column;
     gap: 14px;
+    flex: 1;
 }
 
 .projectItem>div:last-child {

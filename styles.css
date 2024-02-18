@@ -88,13 +88,13 @@ section {
     gap: 24px;
 }
 
-.imgContainer {
-    border-radius: 100%;
+.imgContainer {    
     max-width: 114px;
     overflow: hidden;
 }
 
 .imgContainer img {
+    border-radius: 100%;
     width: 100%;
     aspect-ratio: 1/1;
     object-fit: cover;
@@ -134,6 +134,7 @@ section {
     cursor: pointer;
     width: fit-content;
     margin-right: auto;
+    text-decoration: none;
 }
 
 .outreach:hover {
